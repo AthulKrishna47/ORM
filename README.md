@@ -49,7 +49,7 @@ admin.site.register(Car_Inventory, Car_InventoryAdmin)
 
 
 ## OUTPUT
-![alt text](../image.png)
+![alt text](<Screenshot 2025-10-03 202711.png>)
 
 
 ## RESULT
